@@ -1,0 +1,9 @@
+.containers{
+    display: flex;
+    flex-direction: row;
+}
+.sidebar-wrapper {
+    width: 30%;
+    border: solid;
+    text-align: center;
+}
